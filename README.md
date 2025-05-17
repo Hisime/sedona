@@ -2,6 +2,7 @@
 
 * Студент: [{{userName}}]({{userProfile}}).
 * Наставник: `Неизвестно`.
+* Проект [Sedona](https://hisime.github.io/sedona/)
 
 ---
 
